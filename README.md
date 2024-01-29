@@ -1,4 +1,4 @@
 # -LGMVIP-Web-Task-3
-Student Regstration Form
+Student Registration Form
 file:///C:/Users/Student/Downloads/index.html
 
